@@ -63,6 +63,5 @@ This project is being developed using **C++**, **Qt**, **QML**, and **MySQL**.
 <a href="https://instagram.com/mykola_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mykola_m_" height="30" width="40" /></a>
 <a href="https://t.me/Pacetnyk" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/telegram.svg" alt="pacetnyk" height="30" width="40" /></a>
 <a href="mailto:m.mudryk026@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="4s27bNQT" height="30" width="40" /></a>
-</p>
 <a href="https://discord.gg/4s27bNQT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4s27bNQT" height="30" width="40" /></a>
 </p>
