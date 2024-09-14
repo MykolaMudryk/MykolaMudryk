@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mykola</h1>
-I’m Mykola Mudryk, currently I’m learning C++, QT, QML. Created a simple GUI calculator using QT/QMl. Experienced both in Front-end creating UI/UX using Photoshop and QML and Back-end using C++ and QT framework Now I’m creating a client-server cookbook using C++, QT, QML, MySQL
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mykolamudryk&label=Profile%20views&color=0e75b6&style=flat" alt="mykolamudryk" /> </p>
+<h1 align="center">Hi, I'm Mykola 👋</h1>
+I’m Mykola Mudryk, currently I’m learning C++, QT, QML. 
+I created a simple GUI calculator using QT/QMl for Android and MacOS. 
+Experienced both in Front-end creating UI/UX using Photoshop and QML and Back-end using C++ and QT framework Now I’m creating a client-server cookbook using C++, QT, QML, MySQL
 
 ## 🔭 I’m currently working on
 
 **Klopotenko's Cookbook** cross-platform client-server application built using **C++**, **Qt**, and **QML** for the GUI, compatible with **macOS**, **Windows**, **Linux**, and **Android**.
+
+## **Klopotenko's Cookbook**
+
+**Klopotenko's Cookbook** is a cross-platform client-server application built using **C++**, **Qt**, and **QML** for the GUI, compatible with **macOS**, **Windows**, **Linux**, and **Android**.
 
 ### Key Features:
 
@@ -30,10 +34,13 @@ I’m Mykola Mudryk, currently I’m learning C++, QT, QML. Created a simple G
 
 This app provides an intuitive and user-friendly way to manage, search, and customize recipes.
 
+---
 
-- 🌱 I’m currently learning **C++, QT, QML**
+### Technologies Used:
 
-- 📫 How to reach me **m.mudryk026@gmail.com**
+This project is being developed using **C++**, **Qt**, **QML**, and **MySQL**.
+
+- 📫 Reach me out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
