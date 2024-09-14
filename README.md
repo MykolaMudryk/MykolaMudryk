@@ -4,6 +4,7 @@ I created a simple GUI calculator using **Qt/QML** for **Android** and **macOS**
 Experienced in both Front-end UI/UX development using **Photoshop** and **QML**, and Back-end development using **C++** and the **Qt framework**.  
 Now I’m creating a client-server cookbook application using **C++**, **Qt**, **QML**, and **MySQL**.
 
+
 ## 🔭 I’m currently working on
 
 **Klopotenko's Cookbook** cross-platform client-server application built using **C++**, **Qt**, and **QML** for the GUI, compatible with **macOS**, **Windows**, **Linux**, and **Android**.
