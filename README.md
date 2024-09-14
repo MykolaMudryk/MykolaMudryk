@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykolamudryk&label=Profile%20views&color=0e75b6&style=flat" alt="mykolamudryk" /> </p>
 
-- 🔭 I’m currently working on Klopotenko's Cookbook is a cross-platform client-server application built using C++, Qt, and QML for the GUI, compatible with macOS, Windows, Linux, and Android. Key Features: Recipe Browsing: Users can view all recipes via a dropdown menu, add new recipes, or view their favorites. Search: A search bar allows users to find specific recipes by name. Filters: You can filter recipes by dish category (e.g., first course, dessert), national cuisine, keywords (e.g., soup, salad), or ingredients. Favorites: Easily mark recipes as favorites by clicking the "heart" icon on the main page. Detailed Recipe View: Clicking on a recipe opens a detailed page with cooking instructions, the meal’s output in grams, calories, and number of servings. Users can adjust the data based on the number of servings they want. Edit and Delete: Each recipe page includes options to edit or delete the recipe. This app provides an intuitive and user-friendly way to manage, search, and customize recipes.
+- 🔭 I’m currently working on Klopotenko's Cookbook is a cross-platform client-server application built using C++, Qt, and QML for the GUI, compatible with macOS, Windows, Linux, and Android. 
+Key Features: Recipe Browsing: Users can view all recipes via a dropdown menu, add new recipes, or view their favorites. 
+Search: A search bar allows users to find specific recipes by name. 
+Filters: You can filter recipes by dish category (e.g., first course, dessert), national cuisine, keywords (e.g., soup, salad), or ingredients. 
+Favorites: Easily mark recipes as favorites by clicking the "heart" icon on the main page. Detailed Recipe View: Clicking on a recipe opens a detailed page with cooking instructions, the meal’s output in grams, calories, and number of servings. Users can adjust the data based on the number of servings they want. Edit and Delete: Each recipe page includes options to edit or delete the recipe. This app provides an intuitive and user-friendly way to manage, search, and customize recipes.
 
 - 🌱 I’m currently learning **C++, QT, QML**
 
@@ -11,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/m-mudryk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/m-mudryk" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/in/m-mudryk](https://www.linkedin.com/in/m-mudryk/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/m-mudryk" height="30" width="40" /></a>
 <a href="https://instagram.com/mykola_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mykola_m_" height="30" width="40" /></a>
 <a href="https://discord.gg/pacetnyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pacetnyk" height="30" width="40" /></a>
 </p>
