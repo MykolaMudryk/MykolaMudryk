@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mykola</h1>
-### I’m Mykola Mudryk, currently I’m learning C++, QT, QML. Created a simple GUI calculator using QT/QMl. Experienced both in Front-end creating UI/UX using Photoshop and QML and Back-end using C++ and QT framework Now I’m creating a client-server cookbook using C++, QT, QML, MySQL
+I’m Mykola Mudryk, currently I’m learning C++, QT, QML. Created a simple GUI calculator using QT/QMl. Experienced both in Front-end creating UI/UX using Photoshop and QML and Back-end using C++ and QT framework Now I’m creating a client-server cookbook using C++, QT, QML, MySQL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykolamudryk&label=Profile%20views&color=0e75b6&style=flat" alt="mykolamudryk" /> </p>
 
